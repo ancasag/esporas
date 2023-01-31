@@ -12,7 +12,7 @@ Spores is an application for the control of the aprision of hifas, apresorios, v
 
 ## Installation and Requirements
 
-LabelStoma can be run on Linux and Windows. 
+Esporas can be run on Linux and Windows. 
 
 
 ### Build from source
