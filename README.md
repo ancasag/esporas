@@ -5,7 +5,8 @@ Spores is an application for the control of the aprision of hifas, apresorios, v
 
 # Documentation
 
-1. [Installation](#installation-and-requirements)
+0. [Installation](#installation-and-requirements)
+1. [How to use](#how-to-use)
 2. [Hotkeys](#hotkeys)
 4. [Acknowledgements](#Acknowledgements)
 
@@ -40,6 +41,11 @@ git clone https://github.com/ancasag/esporas
 ```bash
 double click esporas.jar
 ```
+## How to use
+
+Here is the video to learn how to use App Esporas with a example.
+
+[![Watch the video](images/esporas.png)](https://youtu.be/RWCC7xx8QwA)
 
 ## Hotkeys
 |          |                                |
