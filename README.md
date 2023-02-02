@@ -45,7 +45,7 @@ double click esporas.jar
 
 Here is the video to learn how to use App Esporas with a example.
 
-[![Watch the video](images/esporas.png)](https://youtu.be/RWCC7xx8QwA)
+[![Watch the video](image/esporas.png)](https://youtu.be/RWCC7xx8QwA)
 
 ## Hotkeys
 |          |                                |
